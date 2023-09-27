@@ -6,13 +6,15 @@ I am looking to buy an HDB resale flat. But I’m not sure what are some of the 
 Affordable housing for this generation of Singaporeans is a challenge because of economic conditions, the pandemic, the growth of single-person households, political environment, etc. That is what led me to do this study, in an effort to help people in similar position to be able to make more informed decisions from my insights.
 
 
-<h3> Defining The Question </h3> <br>
+<h2> Defining The Questions </h2> <br>
 
-<b> Question 1: What is the trend of resale prices over time? </b> <br>
+<h3><b><u> What HDB resale flat should I buy? </b></u></h3>
+
+<b> Question 1: What is the trend for resale prices over time? </b> <br>
 -  How successful were HDB resales over 2017-2020? 
 -  How successful were HDB resale rates over 2017-2020?
 
-<b> Question 2: What is the trend of resale prices over time based on locations? </b> <br>
+<b> Question 2: What is the trend for resale prices over time based on locations? </b> <br>
 -  How successful were HDB resales in location XYZ over 2017-2020?
 -  How expensive were HDB resale rates  in location XYZ over 2017-2020?
 
@@ -34,7 +36,7 @@ Question 5: What is the trend of resale prices over time based model type? </b>
 -  How expensive were HDB resale rates of ABC flat type over 2017-2020? 
 
 
-<h3> Collecting the Data </h3><br>
+<h2> Collecting the Data </h2><br>
 The data was sourced from Kaggle: https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020 <br>
 I did an initial pass of the data on Google Sheets, and conducted some cleaning and exploratory analysis before porting it over to csv.<br>
 I also added some useful columns and used these functions to achieve that: <br>
