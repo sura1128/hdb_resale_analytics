@@ -8,6 +8,8 @@ Affordable housing for this generation of Singaporeans is a challenge because of
 
 <h2> Defining The Questions </h2>
 
+<h3> <u> What sort of resale HDB flat should I buy? </u> </h3>
+
 <b> Question 1: What is the trend for resale prices over time? </b> <br>
 -  How successful were HDB resales over 2017-2020? 
 -  How successful were HDB resale rates over 2017-2020?
