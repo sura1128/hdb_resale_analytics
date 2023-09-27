@@ -8,28 +8,28 @@ Affordable housing for this generation of Singaporeans is a challenge because of
 
 <h3> Defining The Question </h3> <br>
 
-Question 1: What is the trend of resale prices over time? <br>
+<b> Question 1: What is the trend of resale prices over time? </b> <br>
 -  How successful were HDB resales over 2017-2020? 
 -  How successful were HDB resale rates over 2017-2020?
 
-Question 2: What is the trend of resale prices over time based on locations? <br>
+<b> Question 2: What is the trend of resale prices over time based on locations? </b> <br>
 -  How successful were HDB resales in location XYZ over 2017-2020?
 -  How expensive were HDB resale rates  in location XYZ over 2017-2020?
 
-Question 3: What is the trend of resale prices over time based on floor area (sqm)? <br>
+<b> Question 3: What is the trend of resale prices over time based on floor area (sqm)? </b> <br>
 -  How successful were HDB resales for XYZ floor area over 2017-2020?
 -  How expensive were HDB resale rates for XYZ floor area over 2017-2020?
 
-Question 4: What is the trend of resale prices over time based on storey height?
+<b> Question 4: What is the trend of resale prices over time based on storey height? </b>
 -  How successful were HDB resales for XYZ storey height over 2017-2020?
 -  How expensive were HDB resale rates for XYZ storey height over 2017-2020? 
 
-<i>For the sake of simplicity, we have divided the story height into 3 categories:
-- High Floor = > 20 storeys
-- Mid Floor = > 9 && < 20 storeys 
-- Low Floor =  < 9 storeys</i>
+  <i>For the sake of simplicity, we have divided the story height into 3 categories:
+  - High Floor = > 20 storeys
+  - Mid Floor = > 9 && < 20 storeys 
+  - Low Floor =  < 9 storeys</i>
 
-Question 5: What is the trend of resale prices over time based model type?
+Question 5: What is the trend of resale prices over time based model type? </b>
 -  How successful were HDB resales of ABC flat type over 2017-2020?
 -  How expensive were HDB resale rates of ABC flat type over 2017-2020? 
 
