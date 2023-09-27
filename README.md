@@ -8,8 +8,8 @@ Affordable housing for this generation of Singaporeans is a challenge because of
 
 <h3> Defining The Question </h3> <br>
 Question 1: What is the trend of resale prices over time? <br>
--  How successful were HDB resales over 2017-2020? 
--  How expensive were HDB resale rates over 2017-2020?
+- How successful were HDB resales over 2017-2020? 
+- How expensive were HDB resale rates over 2017-2020?
 
 Question 2: What is the trend of resale prices over time based on locations? <br>
 -  How successful were HDB resales in location XYZ over 2017-2020?
