@@ -11,12 +11,12 @@ Affordable housing for this generation of Singaporeans is a challenge because of
 <h3> <u> What sort of resale HDB flat should I buy? </u> </h3>
 To answer this question, we need to ask more questions and really dig into the trends over the past few years. While house hunting in a small island nation, here are a few important factors that we need to consider: <br>
 
-- Budget (of course, but even more so for Singapore - as this is an expensive city :D )
-- Location & neighbourhood
-- Size
-- Storey Height
-- Number of bedrooms
-- Flat model type (new generation, multi-gen, etc.) <br>
+-  Budget (of course, but even more so for Singapore - as this is an expensive city :D )
+-  Location & neighbourhood
+-  Size
+-  Storey Height
+-  Number of bedrooms
+-  Flat model type (new generation, multi-gen, etc.) <br>
 
 We also need to ascertain the competition for each of these criteria as there is less space and more people and everyone would want to get the best deal for themselves :)
 
