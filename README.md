@@ -15,16 +15,16 @@ Question 2: What is the trend of resale prices over time based on locations? <br
 -  How successful were HDB resales in location XYZ over 2017-2020?
 -  How expensive were HDB resale rates  in location XYZ over 2017-2020?
 
-Question 3: What is the trend of resale prices over time based on floor area (sqm)? 
+Question 3: What is the trend of resale prices over time based on floor area (sqm)? <br>
 -  How successful were HDB resales for XYZ floor area over 2017-2020?
 -  How expensive were HDB resale rates for XYZ floor area over 2017-2020?
 
 
 <h3> Collecting the Data </h3><br>
-The data was sourced from Kaggle: https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020
-I did an initial pass of the data on Google Sheets, and conducted some cleaning and exploratory analysis before porting it over to csv.
-I also added some useful columns and used these functions to achieve that:<br>
-- =ROUND((N2/(O2*12)), 2) → percentage of lease left<br>
+The data was sourced from Kaggle: https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020<br>
+I did an initial pass of the data on Google Sheets, and conducted some cleaning and exploratory analysis before porting it over to csv.<br>
+I also added some useful columns and used these functions to achieve that: <br>
+- =ROUND((N2/(O2*12)), 2) → percentage of lease left <br>
 - =IFS(G2<50, "50", G2<100, "50-100", G2<150, "100-150", G2<200, "150-200", G2<250, "200-250") → category for floor area
 
 
