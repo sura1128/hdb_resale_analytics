@@ -9,10 +9,18 @@ Affordable housing for this generation of Singaporeans is a challenge because of
 <h2> Defining The Questions </h2>
 
 <h3> <u> What sort of resale HDB flat should I buy? </u> </h3>
+To answer this question, we need to ask more questions and really dig into the trends over the past few years. While house hunting in a small island nation, here are a few important factors that we need to consider:
+- Budget (of course, but even more so for Singapore - as this is an expensive city :D )
+- Location & neighbourhood
+- Size
+- Storey Height
+- Number of bedrooms
+- Flat model type (new generation, multi-gen, etc.)
+We also need to ascertain the competition for each of these criteria as there is less space and more people and everyone would want to get the best deal for themselves :)
 
 <b> Question 1: What is the trend for resale prices over time? </b> <br>
 -  How successful were HDB resales over 2017-2020? 
--  How successful were HDB resale rates over 2017-2020?
+-  How expensive were HDB resale rates over 2017-2020?
 
 <b> Question 2: What is the trend for resale prices over time based on locations? </b> <br>
 -  How successful were HDB resales in location XYZ over 2017-2020?
