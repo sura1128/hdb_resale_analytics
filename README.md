@@ -21,7 +21,7 @@ Question 3: What is the trend of resale prices over time based on floor area (sq
 
 
 <h3> Collecting the Data </h3><br>
-The data was sourced from Kaggle: []([url](https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020)) <br>
+The data was sourced from Kaggle: [](https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020) <br>
 I did an initial pass of the data on Google Sheets, and conducted some cleaning and exploratory analysis before porting it over to csv.<br>
 I also added some useful columns and used these functions to achieve that: <br>
 - =ROUND((N2/(O2*12)), 2) → percentage of lease left <br>
