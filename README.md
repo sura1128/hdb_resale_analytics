@@ -1,5 +1,5 @@
 # hdb_resale_analytics
-Analysing the resale prices of HDB apartments in Singapore between 2017-2020.
+Analysing the resale prices of HDB apartments in Singapore between 2017-2020 (WIP: dataset to be updated with 2021-2023).
 
 I am looking to buy an HDB resale flat. But I’m not sure what are some of the options available to me, with regards to price, location, etc. This got me thinking about doing some analysis on past trends for resale HDB flats in Singapore. I have always felt very passionate about housing because I have been renting for the past seven years (and almost ~20 years by extension if I include my childhood). 
 
@@ -8,7 +8,7 @@ Affordable housing for this generation of Singaporeans is a challenge because of
 
 <h2> Defining The Questions </h2>
 
-<h3> <u> What sort of resale HDB flat should I buy? </u> </h3>
+<h3> <u> A Guide To Buying an HDB Resale Flat </u> </h3>
 To answer this question, we need to ask more questions and really dig into the trends over the past few years. While house hunting in a small island nation, here are a few important factors that we need to consider: <br>
 
 -  Budget (of course, but even more so for Singapore - as this is an expensive city :D )
