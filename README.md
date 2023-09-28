@@ -9,7 +9,7 @@ Affordable housing for this generation of Singaporeans is a challenge because of
 <h2> Defining The Questions </h2>
 
 <h3> <u> A Guide To Buying an HDB Resale Flat </u> </h3>
-To answer this question, we need to ask more questions and really dig into the trends over the past few years. While house hunting in a small island nation, here are a few important factors that we need to consider: <br>
+To kickstart this guide, we need to ask a lot of questions and really dig into the trends over the past few years. While house hunting in a small island nation, here are a few important factors that we need to consider: <br>
 
 -  Budget (of course, but even more so for Singapore - as this is an expensive city :D )
 -  Location & neighbourhood
@@ -18,7 +18,9 @@ To answer this question, we need to ask more questions and really dig into the t
 -  Number of bedrooms
 -  Flat model type (new generation, multi-gen, etc.) <br>
 
-We also need to ascertain the competition for each of these criteria as there is less space and more people and everyone would want to get the best deal for themselves :)
+We also need to ascertain the competition for each of these criteria as there is less space and more people and everyone would want to get the best deal for themselves :) <br>
+
+Therefore, I have come up with a series of example questions that we might ask before we decide to buy a house. During the course of this study, I will try to answer these questions through my analysis.
 
 <b> Question 1: I have a housing budget of $XYZ, am I within range to buy in the current market? What is a safe amount of buffer I can keep to make sure I am in a comfortable margin when I decide to buy my new home?</b> <br>
 To be able to ascertain this, we need to study the trend of HDB resale prices over the years and determine how expensive units were in general throughout Singapore.  
